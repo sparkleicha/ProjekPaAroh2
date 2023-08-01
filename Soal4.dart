@@ -15,6 +15,6 @@ void main() {
   print('$a - $b = $pengurangan');
 
   //pembagian
-  double pembagian = a / b; // Hasil pembagian akan menjadi tipe data double karena b adalah 10 (tipe data double).
+  double pembagian = a / b;
   print('$a / $b = $pembagian');
 }
