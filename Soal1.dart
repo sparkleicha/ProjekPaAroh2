@@ -1,13 +1,13 @@
 void main() {
-  var word = 'dart';
-  var second = 'is';
-  var third = 'awesome';
-  var fourth = 'and';
-  var fifth = 'I';
-  var sixth = 'love';
-  var seventh = 'it!';
+  var pertama = 'dart';
+  var kedua = 'is';
+  var ketiga = 'awesome';
+  var keempat = 'and';
+  var kelima = 'I';
+  var keenam = 'love';
+  var terakhir = 'it!';
 
 //hasil
-  var kalimat = '$word $second $third $fourth $fifth $sixth $seventh';
-  print(kalimat); 
+  var hasil = '$pertama $kedua $ketiga $keempat $kelima $ketujuh $terakhir';
+  print(hasil); 
 }
