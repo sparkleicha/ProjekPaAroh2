@@ -8,5 +8,5 @@ void main() {
   String NamaBelakang = stdin.readLineSync()!;
 
   String NamaLengkap = NamaDepan + ' ' + NamaBelakang;
-  print('Nama lengkap: $NamaLengkap \n');
+  print('Nama lengkap: $NamaLengkap');
 }
